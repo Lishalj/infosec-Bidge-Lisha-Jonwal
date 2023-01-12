@@ -24,7 +24,7 @@
 }
 #login{
     border-bottom-style: solid;
-    border-bottom-width: 6px;
+    border-bottom-width: 3px;
     border-bottom-color: #ff0066;
 }
 #main{
@@ -102,6 +102,7 @@
     height: 46px;
     font-weight: bold;
     color: white;
+    font-weight: bold;
     background-color: #ff0066;
     border-color: #ff0066;
 }
