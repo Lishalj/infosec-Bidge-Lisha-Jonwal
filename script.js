@@ -7,7 +7,7 @@ var main = document.getElementById("main")
 
 const loginfunc = () => {
     login.style.borderBottomStyle="solid"
-    login.style.borderBottomWidth="6px"
+    login.style.borderBottomWidth="3px"
     login.style.borderBottomColor="#ff0066";
     signup.style.borderBottomStyle="none"
     loginMain.style.display="flex"
@@ -16,7 +16,7 @@ const loginfunc = () => {
 }
 const signupfunc = () => {
     signup.style.borderBottomStyle="solid"
-    signup.style.borderBottomWidth="6px"
+    signup.style.borderBottomWidth="3px"
     signup.style.borderBottomColor="#ff0066";
     login.style.borderBottomStyle="none"
     signMain.style.display="flex"
