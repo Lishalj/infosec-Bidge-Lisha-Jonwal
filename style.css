@@ -115,7 +115,7 @@
     margin-bottom: 05px;
     margin-right: 15px;
     text-align: right;
-    
+    cursor: pointer;
 }
 .footer p{
     text-align: center;
@@ -132,6 +132,7 @@
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
+  cursor: pointer;
   -webkit-text-fill-color: transparent;
   border-radius: 50%;
   font-size: 25px;
@@ -144,6 +145,7 @@
 .fa-facebook-f{
     color: #3b5998;
     border-radius: 50%;
+    cursor: pointer;
     font-size: 25px;
     width: 20px;
     height: 20px;
@@ -154,6 +156,7 @@
     color: #00acee;
     border-radius: 50%;
     font-size: 25px;
+    cursor: pointer;
     width: 20px;
     height: 20px;
     padding: 10px;
