@@ -100,6 +100,7 @@
     border-radius: 50px;
     margin: 18px 20px;
     height: 46px;
+    font-weight: bold;
     color: white;
     background-color: #ff0066;
     border-color: #ff0066;
@@ -110,7 +111,6 @@
     font-weight: bold;
     margin-bottom: 05px;
     margin-right: 15px;
-    
     text-align: right;
     
 }
